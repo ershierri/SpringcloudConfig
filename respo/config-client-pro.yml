@@ -1,0 +1,8 @@
+server:
+  port: 5100
+
+management:
+  security:
+    enabled: false
+
+foooo: test the config can be readed
